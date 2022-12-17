@@ -1,4 +1,4 @@
-package basics
+package lectures.part1basics
 
 object functionsExcercise extends App {
 
